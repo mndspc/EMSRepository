@@ -51,7 +51,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DeptMasterDAL.cs" />
+    <Compile Include="EmpProfileDAL.cs" />
     <Compile Include="IDeptMasterDAL.cs" />
+    <Compile Include="IEmpProfileDAL.cs" />
     <Compile Include="Models\DeptMaster.cs">
       <DependentUpon>EmsModel.tt</DependentUpon>
     </Compile>

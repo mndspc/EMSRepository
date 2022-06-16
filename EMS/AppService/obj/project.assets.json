@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\DF019\\Project\\PODLeader\\EMS\\AppService\\AppService.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\DF019\\Project\\Project Member\\EMS\\AppService\\AppService.csproj",
       "projectName": "AppService",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\DF019\\Project\\PODLeader\\EMS\\AppService\\AppService.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\DF019\\Project\\Project Member\\EMS\\AppService\\AppService.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\DF019\\Project\\PODLeader\\EMS\\AppService\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\DF019\\Project\\Project Member\\EMS\\AppService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
